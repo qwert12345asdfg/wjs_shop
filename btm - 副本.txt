@@ -263,3 +263,5 @@ weixin.qq.com
 23  阿里巴巴 图标库 http://www.iconfont.cn/plus/search/index?searchType=icon&q=%E8%BF%94%E5%9B%9E%E6%8C%89%E9%92%AE&page=4
 
 24php 面试题http://www.cnblogs.com/bluespot/p/4223056.html
+
+25 laravel 资料 http://laravelacademy.org/resources-download
